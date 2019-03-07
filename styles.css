@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+.container{
+}
+img{
+    width:200px;
+}
+h2{
+    text-align: center;
+    color:gold;
+    }
+p{
+    text-align: center;
+    color:lightblue;
+}
+button{
+    width: 200px;
+    height: 40px;
+}
+.spellOne, .spellTwo, .spellThree{
+    text-align:center;
+    
+}
+.b1{
+    border: solid white;
+    color: white;
+    padding: 10px;
+}
+.b2{
+    border: solid blue;
+    color: white;
+    padding: 10px;
+}    
+.b3{
+    border: solid red;
+    color: white;
+    padding: 10px;
+}        
+.img{
+   text-align:center;
+}
